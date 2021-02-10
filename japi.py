@@ -42,6 +42,7 @@ def main():
 
             sys.exit("\nThank you for using the program!\n")
 
-    print("Stock Quotes retrieved successfully!")
+
 
 main()
+print("Stock Quotes retrieved successfully!")
