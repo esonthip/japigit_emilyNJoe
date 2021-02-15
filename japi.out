@@ -1,0 +1,21 @@
+Enter Stock Symbol or EXIT to exit: aapl
+Gathering info....
+The current price of AAPL is 135.46
+
+Enter Stock Symbol or EXIT to exit: mrna
+Gathering info....
+The current price of MRNA is 182.56
+
+Enter Stock Symbol or EXIT to exit: sndl
+Gathering info....
+The current price of SNDL is 2.02
+
+Enter Stock Symbol or EXIT to exit: fb
+Gathering info....
+The current price of FB is 270.37
+
+Enter Stock Symbol or EXIT to exit: googl
+Gathering info....
+The current price of GOOGL is 2091.03
+
+Enter Stock Symbol or EXIT to exit: 
